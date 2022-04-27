@@ -1,4 +1,4 @@
-# Binary-Classification-of-Cancer-data-using-PCA-and-Logistic-Regression-
+# Binary Classification of Cancer data using PCA, Logistic Regression, and Naive Bayes
 
 Introduction:
 
